@@ -133,4 +133,16 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Acknowledgements
 
 - Matiks for providing the project requirements and data structure
-- Streamlit for the interactive dashboard framework 
+- Streamlit for the interactive dashboard framework
+
+## Demo
+
+A video demonstration of the dashboard is available in this repository. You can view it to see the dashboard in action:
+
+- [Watch Demo Video](demo.mov)
+
+The demo showcases:
+- The interactive dashboard with dark theme
+- Navigation between different analytical pages
+- Data visualization capabilities
+- Insights and recommendations based on data analysis 

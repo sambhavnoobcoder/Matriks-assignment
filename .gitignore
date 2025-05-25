@@ -1,0 +1,39 @@
+# Python environments
+matiks_env/
+venv/
+env/
+.env/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+.Python
+dist/
+build/
+*.egg-info/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Streamlit
+.streamlit/
+
+# macOS
+.DS_Store
+
+# History files
+.history/
+
+# Data files (optional - uncomment if you don't want to include large data files)
+# data/*.csv
+# data/*.json
+
+# Logs
+*.log 
